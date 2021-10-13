@@ -1,3 +1,9 @@
+- 🌱 I’m currently learning DSA and web development.
+- 🔭 I’m currently working on building my resume and preparing for Canadian Computing Competition :)
+- 👯 I’m looking to collaborate on hackathons or any projects!
+- 📫 How to reach me: email me! ytaghavi@yahoo.com
+
+
 [![Ellie's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElyTgy)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
@@ -5,7 +11,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
