@@ -4,7 +4,7 @@
 - 📫 How to reach me: email me! ytaghavi@yahoo.com
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elytgy" alt="elytgy" /></a> </p>
-[![Ellie's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElyTgy)](https://github.com/anuraghazra/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elytgy&show_icons=true&locale=en" alt="elytgy" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elytgy&show_icons=true&locale=en&layout=compact" alt="elytgy" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elytgy&" alt="elytgy" /></p>
 
