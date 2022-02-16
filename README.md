@@ -1,5 +1,5 @@
-- 🌱 I’m currently learning DSA and web development.
-- 🔭 I’m currently working on building my resume and preparing for Canadian Computing Competition :)
+- 🌱 I’m currently learning more about DSAs and web development.
+- 🔭 I’m currently working on some of Codetivate 2.0 :)
 - 👯 I’m looking to collaborate on hackathons or any projects!
 - 📫 How to reach me: email me! ytaghavi@yahoo.com
 
