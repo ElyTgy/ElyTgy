@@ -1,6 +1,5 @@
 - 🌱 I’m currently learning more about DSAs and web development.
 - 🔭 I’m currently trying to revive some of my dead projects :)
-- 👯 I’m looking to collaborate on hackathons or any projects!
 - 📫 How to reach me: email me! ytaghavi@yahoo.com
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elytgy" alt="elytgy" /></a> </p>
