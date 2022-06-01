@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning more about DSAs and web development.
+- 🌱 I’m currently just trying to trying to stay alive tbh.
 - 🔭 I’m currently trying to revive some of my dead projects, and also working on [CodeAsia](https://github.com/Code-Asia) and [The Dynamics](https://github.com/TheDynamics) :)
 - 📫 How to reach me: email me! ytaghavi@yahoo.com
 
