@@ -1,5 +1,5 @@
 - 🌱 Trying to focus on school!
-- 🔭 Reviving some of my dead projects.
+- 🔭 Reviving some of my dead projects
 - 📫 How to reach me: email me at ytaghavi@yahoo.com :)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elytgy" alt="elytgy" /></a> </p>
