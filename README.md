@@ -1,6 +1,5 @@
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elytgy" alt="elytgy" /></a> </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elytgy&" alt="elytgy" /></p>
+
 
 <!--
 **ElyTgy/ElyTgy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +16,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elytgy" alt="elytgy" /></a> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elytgy&" alt="elytgy" /></p>
 -->
